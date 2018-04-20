@@ -23,6 +23,7 @@ EOF
     DEBIAN_FRONTEND=noninteractive /usr/bin/apt-get -fy --no-install-recommends --no-install-suggests install \
       apt-transport-https \
       build-essential \
+      curl \
       exim4 \
       net-tools \
       ntp \
