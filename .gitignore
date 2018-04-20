@@ -1,3 +1,4 @@
 src/.bash_history
 src/restful01/db.sqlite3
 src/restful01/restful01/settings.py
+*.pyc
